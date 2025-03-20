@@ -1,0 +1,23 @@
+{
+    "test@test.com": [
+        {
+            "date": "2024-11-21 15:07:00.126492",
+            "fueltype": null,
+            "geartype": null,
+            "make": null,
+            "maxmileage": "950000",
+            "maxpower": "1200",
+            "maxprice": "200000",
+            "maxyear": "2024",
+            "minmileage": "1",
+            "minpower": "1",
+            "minprice": "750",
+            "minyear": "1970",
+            "model": null,
+            "orderby": 34,
+            "page": 1,
+            "perpage": 20,
+            "province": null
+        }
+    ]
+}

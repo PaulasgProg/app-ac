@@ -1,0 +1,28 @@
+{
+  "test@test.com": [
+    {
+      "id": "70d90034-428d-494b-a253-da3099977fb0",
+      "title": "Citroen C3 2004",
+      "price": "750",
+      "images": [
+        "https://cdn.wallapop.com/images/10420/ho/7p/__/c10420p1068595918/i5236261077.jpg?pictureSize=W800"
+      ],
+      "location": {
+        "city_name": "Lleida"
+      },
+      "link": ""
+    },
+    {
+      "id": "f4a08021-cf2a-4c5d-a38e-f492fc587e10",
+      "title": "Citroen C5 2001",
+      "price": "750",
+      "images": [
+        "https://cdn.wallapop.com/images/10420/h6/b9/__/c10420p1038527990/i5070702399.jpg?pictureSize=W800"
+      ],
+      "location": {
+        "city_name": "Chapela (Casco Urbano)"
+      },
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "test@test.com": [
+    {
+      "id": "bd066d12-11e4-4d64-ae31-2ed82d439199",
+      "title": "Audi A4 2002",
+      "price": "750",
+      "images": [
+        "https://cdn.wallapop.com/images/10420/hd/u0/__/c10420p1051160387/i5139717822.jpg?pictureSize=W800"
+      ],
+      "location": {
+        "city_name": "Ceuti"
+      },
+      "link": ""
+    },
+    {
+      "id": "b4e6131b-8fb0-4e13-82c5-a92812b4bffd",
+      "title": "Alfa Romeo 147 2005",
+      "price": "800",
+      "images": [
+        "https://cdn.wallapop.com/images/10420/hp/qi/__/c10420p1071152865/i5250696876.jpg?pictureSize=W800"
+      ],
+      "location": {
+        "city_name": "Alcala De Henares"
+      },
+      "link": ""
+    },
+    {
+      "id": "52b1aa20-2bfb-4e3c-8255-ae3f2163f077",
+      "title": "Citroen C3 2004",
+      "price": "750",
+      "images": [
+        "https://cdn.wallapop.com/images/10420/h7/dt/__/c10420p1040327486/i5079452567.jpg?pictureSize=W800"
+      ],
+      "location": {
+        "city_name": "Alburquerque"
+      },
+      "link": ""
+    },
+    {
+      "id": "c505559e-592d-4da5-937a-3035753985ff",
+      "title": "Audi A4 1997",
+      "price": "750",
+      "images": [
+        "https://cdn.wallapop.com/images/10420/ex/uv/__/c10420p903393883/i3293167406.jpg?pictureSize=W800"
+      ],
+      "location": {
+        "city_name": "Getafe"
+      },
+      "link": ""
+    },
+    {
+      "id": "75b5c1fe-baa1-49f9-910c-be0b5701784d",
+      "status": 1,
+      "sourceId": 2,
+      "sourceName": "Wallapop",
+      "make": 3,
+      "model": 104,
+      "title": "BMW 320d ",
+      "price": 750,
+      "link": "https://es.wallapop.com/item/bmw-320d-1070006331",
+      "phoneNumber": null,
+      "isIntegration": false,
+      "isDuplicated": false,
+      "images": [
+        "https://cdn.wallapop.com/images/10420/hp/1y/__/c10420p1070006331/i5243236153.jpg?pictureSize=W800"
+      ],
+      "currency": "EUR",
+      "properties": [
+        {
+          "key": "cv",
+          "value": 136,
+          "valueStr": "136CV"
+        },
+        {
+          "key": "km",
+          "value": 200000,
+          "valueStr": "200000kms"
+        },
+        {
+          "key": "year",
+          "value": 2000,
+          "valueStr": "2000"
+        },
+        {
+          "key": "fuel",
+          "value": "diesel",
+          "valueStr": "Diésel"
+        },
+        {
+          "key": "gear_type",
+          "value": "ma",
+          "valueStr": "Manual"
+        }
+      ],
+      "location": {
+        "zip_code": "45681",
+        "city_name": "Illan De Vacas (Pueblo)",
+        "province": "Toledo",
+        "province_trl": "Toledo",
+        "province_ac_id": 786,
+        "longitude": "39.8992",
+        "latitude": "-4.8308"
+      },
+      "publishedAt": "1731708563313",
+      "updatedAt": "2024-11-21 10:11:05",
+      "createdAt": "2024-11-15 23:09:23"
+    },
+    {
+      "id": "79703d95-4c1f-42d6-bf26-4106c6fb4784",
+      "status": 1,
+      "sourceId": 2,
+      "sourceName": "Wallapop",
+      "make": 2,
+      "model": 76,
+      "title": "Audi A3 2001 tipo motor ASZ",
+      "price": 750,
+      "link": "https://es.wallapop.com/item/audi-a3-2001-946165722",
+      "phoneNumber": null,
+      "isIntegration": false,
+      "isDuplicated": false,
+      "images": [
+        "https://cdn.wallapop.com/images/10420/fn/bm/__/c10420p946165722/i3541641936.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/fn/bm/__/c10420p946165722/i3541641992.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/fn/bm/__/c10420p946165722/i3541641979.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/fn/bm/__/c10420p946165722/i3541642000.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/fn/bm/__/c10420p946165722/i3541642012.jpg?pictureSize=W800"
+      ],
+      "currency": "EUR",
+      "properties": [
+        {
+          "key": "cv",
+          "value": 130,
+          "valueStr": "130CV"
+        },
+        {
+          "key": "km",
+          "value": 230000,
+          "valueStr": "230000kms"
+        },
+        {
+          "key": "year",
+          "value": 2001,
+          "valueStr": "2001"
+        },
+        {
+          "key": "fuel",
+          "value": "diesel",
+          "valueStr": "Diésel"
+        },
+        {
+          "key": "gear_type",
+          "value": "ma",
+          "valueStr": "Manual"
+        }
+      ],
+      "location": {
+        "zip_code": "28971",
+        "city_name": "Griñon",
+        "province": "Madrid",
+        "province_trl": "Madrid",
+        "province_ac_id": 772,
+        "longitude": "40.2125",
+        "latitude": "-3.8548"
+      },
+      "publishedAt": "1713958341971",
+      "updatedAt": "2024-11-21 10:08:44",
+      "createdAt": "2024-04-24 13:32:21"
+    },
+    {
+      "id": "067e3446-e45e-4a54-883e-1bb3b3b2af4c",
+      "status": 1,
+      "sourceId": 2,
+      "sourceName": "Wallapop",
+      "make": 2,
+      "model": 74,
+      "title": "Audi A1 2012",
+      "price": 8000,
+      "link": "https://es.wallapop.com/item/audi-a1-2012-1051703835",
+      "phoneNumber": null,
+      "isIntegration": false,
+      "isDuplicated": true,
+      "images": [
+        "https://cdn.wallapop.com/images/10420/he/5n/__/c10420p1051703835/i5141970843.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/he/5n/__/c10420p1051703835/i5141970850.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/he/5n/__/c10420p1051703835/i5141970845.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/he/5n/__/c10420p1051703835/i5141970848.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/he/5n/__/c10420p1051703835/i5141970846.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/he/5n/__/c10420p1051703835/i5141970852.jpg?pictureSize=W800"
+      ],
+      "currency": "EUR",
+      "properties": [
+        {
+          "key": "cv",
+          "value": 86,
+          "valueStr": "86CV"
+        },
+        {
+          "key": "km",
+          "value": 274,
+          "valueStr": "274kms"
+        },
+        {
+          "key": "year",
+          "value": 2012,
+          "valueStr": "2012"
+        },
+        {
+          "key": "fuel",
+          "value": "gasoline",
+          "valueStr": "Gasolina"
+        },
+        {
+          "key": "gear_type",
+          "value": "ma",
+          "valueStr": "Manual"
+        }
+      ],
+      "location": {
+        "zip_code": "15190",
+        "city_name": "Feans (Elviña-Coruña, A)",
+        "province": "Coruña, La",
+        "province_trl": "A Coruña",
+        "province_ac_id": 730,
+        "longitude": "43.3343",
+        "latitude": "-8.4047"
+      },
+      "publishedAt": "1727135312854",
+      "updatedAt": "2024-11-21 18:08:25",
+      "createdAt": "2024-09-24 01:48:32"
+    },
+    {
+      "id": "858b3e73-6973-48d6-9912-b92d4dbc8df0",
+      "status": 1,
+      "sourceId": 2,
+      "sourceName": "Wallapop",
+      "make": 2,
+      "model": 74,
+      "title": "Audi A1 2011",
+      "price": 3500,
+      "link": "https://es.wallapop.com/item/audi-a1-2011-1049648260",
+      "phoneNumber": null,
+      "isIntegration": false,
+      "isDuplicated": false,
+      "images": [
+        "https://cdn.wallapop.com/images/10420/hc/xl/__/c10420p1049648260/i5131851365.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/hc/xl/__/c10420p1049648260/i5131851407.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/hc/xl/__/c10420p1049648260/i5131851441.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/hc/xl/__/c10420p1049648260/i5131851460.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/hc/xl/__/c10420p1049648260/i5131851412.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/hc/xl/__/c10420p1049648260/i5131851400.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/hc/xl/__/c10420p1049648260/i5131851494.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/hc/xl/__/c10420p1049648260/i5131851485.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/hc/xl/__/c10420p1049648260/i5131851474.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/hc/xl/__/c10420p1049648260/i5131851429.jpg?pictureSize=W800"
+      ],
+      "currency": "EUR",
+      "properties": [
+        {
+          "key": "cv",
+          "value": 105,
+          "valueStr": "105CV"
+        },
+        {
+          "key": "km",
+          "value": 335000,
+          "valueStr": "335000kms"
+        },
+        {
+          "key": "year",
+          "value": 2011,
+          "valueStr": "2011"
+        },
+        {
+          "key": "fuel",
+          "value": "diesel",
+          "valueStr": "Diésel"
+        },
+        {
+          "key": "gear_type",
+          "value": "ma",
+          "valueStr": "Manual"
+        }
+      ],
+      "location": {
+        "zip_code": "25300",
+        "city_name": "Tarrega",
+        "province": "Lérida",
+        "province_trl": "Lleida",
+        "province_ac_id": 770,
+        "longitude": "41.647",
+        "latitude": "1.1396"
+      },
+      "publishedAt": "1727008826929",
+      "updatedAt": "2024-11-21 10:08:26",
+      "createdAt": "2024-09-22 14:40:26"
+    },
+    {
+      "id": "529bc58d-4417-40a5-9c8a-c09e12752939",
+      "status": 1,
+      "sourceId": 2,
+      "sourceName": "Wallapop",
+      "make": 2,
+      "model": 74,
+      "title": "Audi A1 2013",
+      "price": 12500,
+      "link": "https://es.wallapop.com/item/audi-a1-2013-1024980644",
+      "phoneNumber": null,
+      "isIntegration": false,
+      "isDuplicated": false,
+      "images": [
+        "https://cdn.wallapop.com/images/10420/gy/8w/__/c10420p1024980644/i4997844632.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/gy/8w/__/c10420p1024980644/i4997844653.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/gy/8w/__/c10420p1024980644/i4997844678.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/gy/8w/__/c10420p1024980644/i4997844690.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/gy/8w/__/c10420p1024980644/i4997844717.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/gy/8w/__/c10420p1024980644/i4997844734.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/gy/8w/__/c10420p1024980644/i4997844751.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/gy/8w/__/c10420p1024980644/i4997844768.jpg?pictureSize=W800"
+      ],
+      "currency": "EUR",
+      "properties": [
+        {
+          "key": "cv",
+          "value": 90,
+          "valueStr": "90CV"
+        },
+        {
+          "key": "km",
+          "value": 188000,
+          "valueStr": "188000kms"
+        },
+        {
+          "key": "year",
+          "value": 2013,
+          "valueStr": "2013"
+        },
+        {
+          "key": "fuel",
+          "value": "diesel",
+          "valueStr": "Diésel"
+        },
+        {
+          "key": "gear_type",
+          "value": "ma",
+          "valueStr": "Manual"
+        }
+      ],
+      "location": {
+        "zip_code": "15401",
+        "city_name": "Ferrol",
+        "province": "Coruña, La",
+        "province_trl": "A Coruña",
+        "province_ac_id": 730,
+        "longitude": "43.4832",
+        "latitude": "-8.2369"
+      },
+      "publishedAt": "1719864110455",
+      "updatedAt": "2024-11-22 06:08:29",
+      "createdAt": "2024-07-01 22:01:50"
+    },
+    {
+      "id": "71f00631-8b37-47e5-a2e2-850b47e83a52",
+      "status": 1,
+      "sourceId": 2,
+      "sourceName": "Wallapop",
+      "make": 2,
+      "model": 74,
+      "title": "Audi A1 Sportback 1.6 TDI 116CV S tro Adrenalin2",
+      "price": 13490,
+      "link": "https://es.wallapop.com/item/audi-a1-sportback-1-6-tdi-116cv-s-tro-adrenalin2-1064113741",
+      "phoneNumber": null,
+      "isIntegration": false,
+      "isDuplicated": true,
+      "images": [
+        "https://cdn.wallapop.com/images/10420/hl/jn/__/c10420p1064113741/i5220103952.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/hl/jn/__/c10420p1064113741/i5206752881.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/hl/jn/__/c10420p1064113741/i5206752887.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/hl/jn/__/c10420p1064113741/i5206752898.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/hl/jn/__/c10420p1064113741/i5206752904.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/hl/jn/__/c10420p1064113741/i5206752909.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/hl/jn/__/c10420p1064113741/i5206752924.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/hl/jn/__/c10420p1064113741/i5206752934.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/hl/jn/__/c10420p1064113741/i5206752950.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/hl/jn/__/c10420p1064113741/i5209629177.jpg?pictureSize=W800"
+      ],
+      "currency": "EUR",
+      "properties": [
+        {
+          "key": "cv",
+          "value": 116,
+          "valueStr": "116CV"
+        },
+        {
+          "key": "km",
+          "value": 132500,
+          "valueStr": "132500kms"
+        },
+        {
+          "key": "year",
+          "value": 2016,
+          "valueStr": "2016"
+        },
+        {
+          "key": "fuel",
+          "value": "diesel",
+          "valueStr": "Diésel"
+        },
+        {
+          "key": "gear_type",
+          "value": "at",
+          "valueStr": "Automático"
+        }
+      ],
+      "location": {
+        "zip_code": "15005",
+        "city_name": "A Coruña",
+        "province": "Coruña, La",
+        "province_trl": "A Coruña",
+        "province_ac_id": 730,
+        "longitude": "42.3749",
+        "latitude": "-7.8049"
+      },
+      "publishedAt": "1730218729206",
+      "updatedAt": "2024-11-22 06:08:29",
+      "createdAt": "2024-10-29 17:18:49"
+    },
+    {
+      "id": "28e07ef2-c6de-4db7-a927-c6da4c654198",
+      "status": 1,
+      "sourceId": 2,
+      "sourceName": "Wallapop",
+      "make": 2,
+      "model": 74,
+      "title": "Audi A1 2015",
+      "price": 12500,
+      "link": "https://es.wallapop.com/item/audi-a1-2015-978671103",
+      "phoneNumber": null,
+      "isIntegration": false,
+      "isDuplicated": false,
+      "images": [
+        "https://cdn.wallapop.com/images/10420/g6/ob/__/c10420p978671103/i4733088842.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/g6/ob/__/c10420p978671103/i4733088883.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/g6/ob/__/c10420p978671103/i4733088919.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/g6/ob/__/c10420p978671103/i4733088900.jpg?pictureSize=W800",
+        "https://cdn.wallapop.com/images/10420/g6/ob/__/c10420p978671103/i4733088888.jpg?pictureSize=W800"
+      ],
+      "currency": "EUR",
+      "properties": [
+        {
+          "key": "cv",
+          "value": 90,
+          "valueStr": "90CV"
+        },
+        {
+          "key": "km",
+          "value": 105000,
+          "valueStr": "105000kms"
+        },
+        {
+          "key": "year",
+          "value": 2015,
+          "valueStr": "2015"
+        },
+        {
+          "key": "fuel",
+          "value": "diesel",
+          "valueStr": "Diésel"
+        },
+        {
+          "key": "gear_type",
+          "value": "ma",
+          "valueStr": "Manual"
+        }
+      ],
+      "location": {
+        "zip_code": "13240",
+        "city_name": "La Solana",
+        "province": "Ciudad Real",
+        "province_trl": "Ciudad Real",
+        "province_ac_id": 756,
+        "longitude": "38.9442",
+        "latitude": "-3.2381"
+      },
+      "publishedAt": "1713958539907",
+      "updatedAt": "2024-11-22 06:08:29",
+      "createdAt": "2024-04-24 13:35:39"
+    }
+  ]
+}
