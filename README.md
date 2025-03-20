@@ -2,7 +2,10 @@
 
 Este proyecto es una simulación de Alerta Coches (conectado a su API) y está creado con Flet y Docker.
 
-[![Ver video de demostración]](https://github.com/PaulasgProg/app-ac/raw/main/assets/videos/video-app-demostracion.mp4)
+![Vista previa](https://github.com/PaulasgProg/app-ac/blob/main/assets/images/AlertaCoches.jpg)
+
+
+[![Descargar video de demostración]](https://github.com/PaulasgProg/app-ac/raw/main/assets/videos/video-app-demostracion.mp4)
 
 
 
