@@ -1,5 +1,8 @@
 # AlertaCoches Flet App
 
+Este proyecto es una simulación de Alerta Coches (conectado a su API) y está creado con Flet y Docker.
+
+
 ## 1. Estructura del Proyecto
 
 ```tree
